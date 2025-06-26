@@ -79,7 +79,9 @@ Select Measure = {
 
 ## 📷 Sample Dashboard Preview
 
-![Dashboard](https://github.com/user-attachments/assets/fabd0722-ee34-4634-998c-ab74423c3334)
+![dashboard (2)](https://github.com/user-attachments/assets/61117653-dc0f-4125-b892-ffabbb60deab)
+
+
 
 
 ---
